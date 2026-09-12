@@ -131,7 +131,7 @@
 
 - [Why Grace Changes Everything by Chuck
   Smith](https://www.amazon.com/gp/product/0936728787/ref=as_li_tl?ie=UTF8&tag=bibletruths-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0936728787&linkId=9ec913066483080126dd941121363c16)
-  -- The difference grace will make for you\.... Grace.. It\'s a word we
+  – The difference grace will make for you\.... Grace.. It\'s a word we
   all love to hear. But do we all know what it means? Without it, our
   lives are dry and dusty. But when grace comes, it transforms our lives
   into something rich and beautiful. With remarkable insight gleaned
@@ -142,9 +142,9 @@
   is the greatest source of security you will ever know. That is
   grace-and that is what makes life worth living.
 
-- [The Grace Awakening by Charles Swindoll](https://amzn.to/30Y55Op) --
+- [The Grace Awakening by Charles Swindoll](https://amzn.to/30Y55Op) –
   *The Grace Awakening* calls all Christians to wake up and reject
-  living in such legalistic, performance-oriented bondage. The God of
+  living in legalistic, performance-oriented bondage. The God of
   the universe has given us an amazing, revolutionary gift of grace and
   freedom. This freedom and grace set us apart from every other
   \"religion\" on the face of the earth. In this best-selling classic,
@@ -219,7 +219,7 @@
   possible to experience the freedom of forgiveness, and the restoration
   of a clear conscience.
 
-- **COUNSELING**
+## COUNSELING
 
 - [The Complete Guide to Crisis & Trauma Counseling: What to Do and Say
   When It Matters Most! by H. Norman Wright](https://amzn.to/3zvmUpg) --
@@ -335,16 +335,17 @@
   divorce. For those who are already struggling in these areas, this
   book will help them find healing and restoration. Readers will learn
   how to pray about everything from\
+  
   - communication breakdown to struggles with finances and raising
-  children\
+    children\
   - misplaced priorities to anger, unforgiveness, and sexual
-  frustration\
+    frustration\
   - pornography and infidelity to depression and addictions\
-  No stranger to struggles in her 34 years of marriage, Stormie looks at
-  these topics and more in the straightforward, hopeful manner readers
-  have come to trust. As always, readers will find Bible verses and
-  personal prayers they can use as powerful resources to help their
-  marriages last a lifetime.
+    No stranger to struggles in her 34 years of marriage, Stormie looks at
+    these topics and more in the straightforward, hopeful manner readers
+    have come to trust. As always, readers will find Bible verses and
+    personal prayers they can use as powerful resources to help their
+    marriages last a lifetime.
 
 - [Swipe Right: The Life-and-Death Power of Sex and Romance by Levi
   Lusko](https://www.amazon.com/gp/product/0718032152/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=bibletruths-20&creative=9325&linkCode=as2&creativeASIN=0718032152&linkId=6813bede2495f72eef060ea5d595b9a5)
@@ -353,18 +354,19 @@
   life-and-death importance. So how you can train today for the
   relationship you want tomorrow? In Swipe Right, Levi Lusko shares with
   raw honesty from his own life experiences and God's Word how to:\
+  
   - regret-proof your marriage bed and your deathbed\
   - resist settling for instant pleasure by discovering what your heart
-  really longs for,\
+    really longs for,\
   - learn how to avoid and treat sexual scars by careful living today\
   - turn the clumsy "sex talk" with your child into dialogue that leads
-  to wise choices\
+    to wise choices\
   - transform a stagnant marriage by trading predictable nearness for
-  mind-blowing intimacy\
-  God's dreams for your life are not intended to kill your joy but to
-  enhance it. Whether you're fed up with dating and hooking up as usual,
-  tired of being single, numb because of porn and casual sex, or curious
-  about how to improve your marriage, this book is for you.
+    mind-blowing intimacy\
+    God's dreams for your life are not intended to kill your joy but to
+    enhance it. Whether you're fed up with dating and hooking up as usual,
+    tired of being single, numb because of porn and casual sex, or curious
+    about how to improve your marriage, this book is for you.
 
 - [Love Life for Every Married Couple by Ed
   Wheat](https://amzn.to/3HVgx4S) -- Physician Ed Wheat has helped
@@ -605,6 +607,7 @@
   future with faith. Max takes you on a well-researched overview of what
   God\'s Word says, exploring the following four big ideas that provide
   a solid foundation for understanding God\'s eternal plan:\
+  
   - We were made to reign with Christ.\
   - God has made and will keep his promises.\
   - Heaven has a time line.\
